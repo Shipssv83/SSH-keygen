@@ -1,3 +1,9 @@
+  <a href="https://www.instagram.com/shipssvpl/">
+    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/instagram-new.png" alt="Instagram" width="30" height="30" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100083345006373">
+    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/facebook.png" alt="Facebook" width="30" height="30" />
+  </a>
 # SSH-keygen
 Bash скрипта для генерации SSH ключа
 
